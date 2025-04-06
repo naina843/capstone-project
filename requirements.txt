@@ -1,0 +1,13 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+matplotlib
+prophet
+nltk
+spacy
+python-dotenv
+langchain
+tqdm
+fuzzywuzzy
+python-Levenshtein
